@@ -180,4 +180,4 @@ https://zhuanlan.zhihu.com/p/631338315
 
 https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/
 
-![扫码_搜索联合传播样式-白色版 1](https://img.luozhiyun.com/20210718193547.png)
+![扫码_搜索联合传播样式-白色版 1](flappy_bird/img.png)
